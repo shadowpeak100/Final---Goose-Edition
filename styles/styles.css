@@ -74,7 +74,7 @@ main {
   transition: background-color 0.2s ease 0s, color 0.2s ease 0s,
     border-color 0.2s ease 0s, opacity 0.2s ease 0s;
   color: var(--jetskyblue);
-  margin: 0.25rem;
+  margin: 1rem;
 }
 
 .button:hover,
